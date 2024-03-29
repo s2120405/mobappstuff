@@ -5,24 +5,27 @@
       "title": "Hoots for Tomorrow: Community Tree Planting",
       "address": "123 Greenway Avenue, Evergreen Heights, Parksville, CA 90210",
       "date": "01/32/2024",
-      "latitude": 34.0522, // Random latitude
-      "longitude": -118.2437 // Random longitude
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "description": "Join us for a day of planting trees to beautify our community and improve the environment."
     },
     {
       "image": "images/test2.jpg",
       "title": "Shade the Earth: Greening Our City",
       "address": "456 Oak Street, Sunnyvale Gardens, Arborville, FL 33123",
       "date": "01/32/2024",
-      "latitude": 25.7617, // Random latitude
-      "longitude": -80.1918 // Random longitude
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "description": "Help us in our mission to create a greener city by planting trees and gardens throughout the neighborhood."
     },
     {
       "image": "images/test3.jpg",
       "title": "Grow Together: Forest Revival Day",
       "address": "789 Maple Drive, Woodland Hills, Cedarville, NY 54321",
       "date": "01/32/2024",
-      "latitude": 40.7128, // Random latitude
-      "longitude": -74.0060 // Random longitude
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "description": "Join hands in restoring the beauty of our forests by planting trees and cleaning up the area."
     }
   ],
   "community_runs": [
@@ -31,24 +34,27 @@
       "title": "Color Blaze Fun Run: Sprint for Smiles",
       "address": "321 Rainbow Road, Joyville Hills, Happytown, TX 67890",
       "date": "01/32/2024",
-      "latitude": 29.7604, // Random latitude
-      "longitude": -95.3698 // Random longitude
+      "latitude": 29.7604,
+      "longitude": -95.3698,
+      "description": "Get ready for a colorful run as we raise funds to bring smiles to the faces of children in need."
     },
     {
       "image": "images/test5.jpg",
       "title": "Neon Nights 5K: Glow and Go!",
       "address": "654 Glow Lane, Luminary Heights, Sparksville, AZ 34567",
       "date": "01/32/2024",
-      "latitude": 33.4484, // Random latitude
-      "longitude": -112.0740 // Random longitude
+      "latitude": 33.4484,
+      "longitude": -112.0740,
+      "description": "Join us for an exciting night run filled with neon lights and glowing fun!"
     },
     {
       "image": "images/test6.jpg",
       "title": "Superhero Stride: Run for a Cause",
       "address": "987 Hero Street, Braveville Estates, Valor City, WA 45678",
       "date": "01/32/2024",
-      "latitude": 47.6062, // Random latitude
-      "longitude": -122.3321 // Random longitude
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "description": "Be a superhero for a day and run for a cause to support our local community initiatives."
     }
   ],
   "ocean_cleanup": [
@@ -57,24 +63,27 @@
       "title": "Coastal Crusaders: Cleaning for Good",
       "address": "101 Oceanfront Boulevard, Seashell Shores, Cleanwater Bay, CA 54321",
       "date": "01/32/2024",
-      "latitude": 37.7749, // Random latitude
-      "longitude": -122.4194 // Random longitude
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "description": "Join our team of coastal crusaders and help clean up our beaches for a cleaner environment."
     },
     {
       "image": "images/test8.jpg",
       "title": "Sands of Change: Beach Revival Project",
       "address": "202 Seagull Lane, Sandy Cove Estates, Coral Beach, FL 98765",
       "date": "01/32/2024",
-      "latitude": 25.7617, // Random latitude
-      "longitude": -80.1918 // Random longitude
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "description": "Let's make a positive impact on our beaches by participating in this beach revival project."
     },
     {
       "image": "images/test9.jpg",
       "title": "Wave Warriors: Surfers Against Pollution",
       "address": "303 Shoreline Drive, Oceanview Terrace, Wavecrest, HI 12345",
       "date": "01/32/2024",
-      "latitude": 21.3069, // Random latitude
-      "longitude": -157.8583 // Random longitude
+      "latitude": 21.3069,
+      "longitude": -157.8583,
+      "description": "Join us in our mission to fight against pollution and protect our oceans for future generations."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "image": "https://github.com/s2120405/mobappstuff/blob/main/images/test1.jpg",
+      "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test1.jpg",
       "title": "Hoots for Tomorrow: Community Tree Planting",
       "address": "123 Greenway Avenue, Evergreen Heights, Parksville, CA 90210",
       "date": "01/32/2024",
@@ -11,7 +11,7 @@
       "volunteers": 200
     },
     {
-      "image": "https://github.com/s2120405/mobappstuff/blob/main/images/test2.jpg",
+      "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test2.jpg",
       "title": "Shade the Earth: Greening Our City",
       "address": "456 Oak Street, Sunnyvale Gardens, Arborville, FL 33123",
       "date": "01/32/2024",
@@ -21,7 +21,7 @@
       "volunteers": 150
     },
     {
-      "image": "https://github.com/s2120405/mobappstuff/blob/main/images/test3.jpg",
+      "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test3.jpg",
       "title": "Grow Together: Forest Revival Day",
       "address": "789 Maple Drive, Woodland Hills, Cedarville, NY 54321",
       "date": "01/32/2024",
@@ -33,7 +33,7 @@
   ],
   "community_runs": [
     {
-      "image": "https://github.com/s2120405/mobappstuff/blob/main/images/test4.jpg",
+      "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test4.jpg",
       "title": "Color Blaze Fun Run: Sprint for Smiles",
       "address": "321 Rainbow Road, Joyville Hills, Happytown, TX 67890",
       "date": "01/32/2024",
@@ -43,7 +43,7 @@
       "volunteers": 220
     },
     {
-      "image": "https://github.com/s2120405/mobappstuff/blob/main/images/test5.jpg",
+      "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test5.jpg",
       "title": "Neon Nights 5K: Glow and Go!",
       "address": "654 Glow Lane, Luminary Heights, Sparksville, AZ 34567",
       "date": "01/32/2024",
@@ -53,7 +53,7 @@
       "volunteers": 170
     },
     {
-      "image": "https://github.com/s2120405/mobappstuff/blob/main/images/test6.jpg",
+      "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test6.jpg",
       "title": "Superhero Stride: Run for a Cause",
       "address": "987 Hero Street, Braveville Estates, Valor City, WA 45678",
       "date": "01/32/2024",
@@ -65,7 +65,7 @@
   ],
   "ocean_cleanup": [
     {
-      "image": "https://github.com/s2120405/mobappstuff/blob/main/images/test7.jpg",
+      "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test7.jpg",
       "title": "Coastal Crusaders: Cleaning for Good",
       "address": "101 Oceanfront Boulevard, Seashell Shores, Cleanwater Bay, CA 54321",
       "date": "01/32/2024",
@@ -75,7 +75,7 @@
       "volunteers": 210
     },
     {
-      "image": "https://github.com/s2120405/mobappstuff/blob/main/images/test8.jpg",
+      "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test8.jpg",
       "title": "Sands of Change: Beach Revival Project",
       "address": "202 Seagull Lane, Sandy Cove Estates, Coral Beach, FL 98765",
       "date": "01/32/2024",
@@ -85,7 +85,7 @@
       "volunteers": 180
     },
     {
-      "image": "https://github.com/s2120405/mobappstuff/blob/main/images/test9.jpg",
+      "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test9.jpg",
       "title": "Wave Warriors: Surfers Against Pollution",
       "address": "303 Shoreline Drive, Oceanview Terrace, Wavecrest, HI 12345",
       "date": "01/32/2024",

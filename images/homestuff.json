@@ -9,7 +9,8 @@
       "longitude": -118.2437,
       "description": "Join us for a day of planting trees to beautify our community and improve the environment.",
       "volunteers": 200,
-      "isBookmarked": false
+      "isBookmarked": false,
+      "isJoined": true
     },
     {
       "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test2.jpg",
@@ -20,7 +21,8 @@
       "longitude": -80.1918,
       "description": "Help us in our mission to create a greener city by planting trees and gardens throughout the neighborhood.",
       "volunteers": 150,
-      "isBookmarked": true
+      "isBookmarked": true,
+      "isJoined": true
     },
     {
       "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test3.jpg",
@@ -31,7 +33,8 @@
       "longitude": -74.0060,
       "description": "Join hands in restoring the beauty of our forests by planting trees and cleaning up the area.",
       "volunteers": 180,
-      "isBookmarked": true
+      "isBookmarked": true,
+      "isJoined": false
     }
   ],
   "community_runs": [
@@ -44,7 +47,8 @@
       "longitude": -95.3698,
       "description": "Get ready for a colorful run as we raise funds to bring smiles to the faces of children in need.",
       "volunteers": 220,
-      "isBookmarked": true
+      "isBookmarked": true,
+      "isJoined": false
     },
     {
       "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test5.jpg",
@@ -55,7 +59,8 @@
       "longitude": -112.0740,
       "description": "Join us for an exciting night run filled with neon lights and glowing fun!",
       "volunteers": 170,
-      "isBookmarked": true
+      "isBookmarked": true,
+      "isJoined": false
     },
     {
       "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test6.jpg",
@@ -66,7 +71,8 @@
       "longitude": -122.3321,
       "description": "Be a superhero for a day and run for a cause to support our local community initiatives.",
       "volunteers": 190,
-      "isBookmarked": true
+      "isBookmarked": true,
+      "isJoined": false
     }
   ],
   "ocean_cleanup": [
@@ -79,7 +85,8 @@
       "longitude": -122.4194,
       "description": "Join our team of coastal crusaders and help clean up our beaches for a cleaner environment.",
       "volunteers": 210,
-      "isBookmarked": true
+      "isBookmarked": true,
+      "isJoined": false
     },
     {
       "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test8.jpg",
@@ -90,7 +97,8 @@
       "longitude": -80.1918,
       "description": "Let's make a positive impact on our beaches by participating in this beach revival project.",
       "volunteers": 180,
-      "isBookmarked": true
+      "isBookmarked": true,
+      "isJoined": false
     },
     {
       "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test9.jpg",
@@ -101,7 +109,8 @@
       "longitude": -157.8583,
       "description": "Join us in our mission to fight against pollution and protect our oceans for future generations.",
       "volunteers": 230,
-      "isBookmarked": true
+      "isBookmarked": true,
+      "isJoined": false
     }
   ]
 }

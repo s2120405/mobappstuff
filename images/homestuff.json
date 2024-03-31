@@ -9,7 +9,7 @@
       "longitude": -118.2437,
       "description": "Join us for a day of planting trees to beautify our community and improve the environment.",
       "volunteers": 200,
-      "isBookmarked": true
+      "isBookmarked": false
     },
     {
       "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test2.jpg",

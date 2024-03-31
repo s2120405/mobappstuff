@@ -30,7 +30,8 @@
       "latitude": 40.7128,
       "longitude": -74.0060,
       "description": "Join hands in restoring the beauty of our forests by planting trees and cleaning up the area.",
-      "volunteers": 180
+      "volunteers": 180,
+      "isBookmarked" : false
     }
   ],
   "community_runs": [
@@ -42,7 +43,8 @@
       "latitude": 29.7604,
       "longitude": -95.3698,
       "description": "Get ready for a colorful run as we raise funds to bring smiles to the faces of children in need.",
-      "volunteers": 220
+      "volunteers": 220,
+      "isBookmarked" : false
     },
     {
       "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test5.jpg",
@@ -52,7 +54,8 @@
       "latitude": 33.4484,
       "longitude": -112.0740,
       "description": "Join us for an exciting night run filled with neon lights and glowing fun!",
-      "volunteers": 170
+      "volunteers": 170,
+      "isBookmarked" : false
     },
     {
       "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test6.jpg",
@@ -62,7 +65,8 @@
       "latitude": 47.6062,
       "longitude": -122.3321,
       "description": "Be a superhero for a day and run for a cause to support our local community initiatives.",
-      "volunteers": 190
+      "volunteers": 190,
+      "isBookmarked" : false
     }
   ],
   "ocean_cleanup": [
@@ -74,7 +78,8 @@
       "latitude": 37.7749,
       "longitude": -122.4194,
       "description": "Join our team of coastal crusaders and help clean up our beaches for a cleaner environment.",
-      "volunteers": 210
+      "volunteers": 210,
+      "isBookmarked" : false
     },
     {
       "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test8.jpg",
@@ -84,7 +89,8 @@
       "latitude": 25.7617,
       "longitude": -80.1918,
       "description": "Let's make a positive impact on our beaches by participating in this beach revival project.",
-      "volunteers": 180
+      "volunteers": 180,
+      "isBookmarked" : true
     },
     {
       "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/images/test9.jpg",
@@ -94,7 +100,8 @@
       "latitude": 21.3069,
       "longitude": -157.8583,
       "description": "Join us in our mission to fight against pollution and protect our oceans for future generations.",
-      "volunteers": 230
+      "volunteers": 230,
+      "isBookmarked" : false
     }
   ]
 }

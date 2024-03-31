@@ -1,11 +1,28 @@
 {
   "posts": [
     {
-      "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/feed/test1.jpg",
-      "title": "Hoots for Tomorrow: Community Tree Planting",
-      "date": "01/32/2024",
-      "description": "Join us for a day of planting trees to beautify our community and improve the environment."
+      "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/feed/fun_run.jpg",
+      "title": "Fun Run for a Cause!",
+      "date": "03/15/2024",
+      "description": "Had a blast participating in the charity fun run today! Running alongside so many people with a shared goal was incredibly motivating. Can't wait for the next one!"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/feed/coastal_cleanup.jpg",
+      "title": "Making Waves at the Coastal Cleanup!",
+      "date": "04/05/2024",
+      "description": "Spent the morning picking up trash along the shoreline. It's inspiring to see the impact we can make when we come together to protect our oceans. Let's keep our coastlines clean!"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/feed/community_garden.jpg",
+      "title": "Growing Together in the Community Garden!",
+      "date": "05/20/2024",
+      "description": "Had a great time tending to the community garden beds today. Watching the seeds we planted weeks ago sprout and grow is so rewarding. Can't wait to harvest fresh veggies soon!"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/s2120405/mobappstuff/main/feed/animal_shelter.jpg",
+      "title": "Furry Friends and Fun Times at the Animal Shelter!",
+      "date": "06/10/2024",
+      "description": "Spent the afternoon at the local animal shelter, playing with the dogs and cats waiting for their forever homes. Seeing their wagging tails and purring cuddles made my day. Adopt, don't shop!"
     }
-   
   ]
 }

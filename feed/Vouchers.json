@@ -1,0 +1,28 @@
+{
+  "vouchers": [
+    {
+      "image": "https://example.com/voucher1.jpg",
+      "title": "10% Off Your Next Purchase!",
+      "description": "Enjoy a 10% discount on your next purchase at our store. Use code SAVE10 at checkout.",
+      "expirationDate": "2024-12-31"
+    },
+    {
+      "image": "https://example.com/voucher2.jpg",
+      "title": "Free Coffee with Any Meal!",
+      "description": "Get a free coffee when you buy any meal. Just show this voucher at the counter.",
+      "expirationDate": "2024-11-15"
+    },
+    {
+      "image": "https://example.com/voucher3.jpg",
+      "title": "Buy One Get One Free!",
+      "description": "Buy one item and get another one free on selected products. Limited time offer!",
+      "expirationDate": "2024-10-01"
+    },
+    {
+      "image": "https://example.com/voucher4.jpg",
+      "title": "25% Off for First-Time Customers!",
+      "description": "New to our store? Enjoy 25% off your first purchase with this voucher.",
+      "expirationDate": "2025-01-01"
+    }
+  ]
+}
